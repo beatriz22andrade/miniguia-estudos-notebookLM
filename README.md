@@ -10,10 +10,16 @@ O assunto escolhido aborda conceitos do próprio curso para aprofundar ainda mai
 ## 📚 Curadoria de Fontes
 As seguintes fontes foram selecionadas e carregadas no NotebookLM para compor a base de dados deste projeto:
 
-1. **ChatGPT e Engenharia de Prompt: Técnicas para o Prompt Perfeito** - *Vídeo introdutório da Alura sobre geração de resposta* - (https://www.youtube.com/watch?v=NsXfldreSPQ)
-2. **[Nome da Fonte 2]** - *[Breve descrição do documento, ex: Artigo técnico explicativo sobre arquitetura RAG]* - [[Link ou Referência]](https://www.youtube.com/watch?v=fNZcG-Ya168)
-3. **[Nome da Fonte 3]** - *[Breve descrição do documento, ex: Guia de boas práticas em Engenharia de Prompts]* - [Link ou Referência]
-
+1. **ChatGPT e Engenharia de Prompt: Técnicas para o Prompt Perfeito** - *Vídeo introdutório da Alura sobre geração de resposta* - [[Link do vídeo]](https://www.youtube.com/watch?v=NsXfldreSPQ)
+2. **Engenharia de Prompt: Guia para Iniciantes** - *Definindo a engenharia de Prompt* - [[Link do vídeo]](https://www.youtube.com/watch?v=fNZcG-Ya168)
+3. **Engenharia de Prompt: O Guia Definitivo** - *Abordagem prática para extrair o máximo potencial dos modelos de linguagem* - [[Link do vídeo]](https://www.youtube.com/watch?v=1VDcke66TRE)
+4. **Engenharia de prompt, Fine tunning ou RAG, o que é e qual usar** - *Abordagens para otimizar o uso de IA em projetos práticos* - [[Link do vídeo]](https://www.youtube.com/watch?v=rNdINgxhHWc)
+5. **Fine Tuning, RAG e Prompt Engineering: Qual é melhor? e Quando Usar?** - *Distinção entre Prompt Engineering, RAG e Fine-Tuning* - [[Link do vídeo]](https://www.youtube.com/watch?v=SFpzAWu_qs0)
+6. **O que é engenharia de prompts?** - *Guia sobre a engenharia de prompt* - [[Link do site]](https://www.ibm.com/br-pt/think/topics/prompt-engineering)
+7. **O que é engenharia de prompts?** - *Artigo técnico da AWS define a engenharia de prompts* - [[Link do site]](https://aws.amazon.com/pt/what-is/prompt-engineering/)
+8. **RAG (Retrieval-Augmented Generation) // Dicionário do Programador** - *Explicação do conceito de RAG* - [[Link do vídeo]](https://www.youtube.com/watch?v=CuPKOGdA46Q)
+9. **RAG vs. ajuste fino vs. engenharia de prompts** - *Texto da IBM como um guia técnico que compara as três principais metodologias* - [[Link do site]](https://www.ibm.com/br-pt/think/topics/rag-vs-fine-tuning-vs-prompt-engineering)
+10. **Retrieval Augmented Generation (RAG)** - *Um guia abrangente sobre a técnica de Geração Aumentada de Recuperação (RAG)* - [[Link do site]](https://www.promptingguide.ai/techniques/rag)
 ---
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
