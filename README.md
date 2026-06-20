@@ -62,6 +62,19 @@ Para extrair o conhecimento factual das fontes sem dar margem a alucinações, f
 ### 🔤 Glossário de Conceitos Aprendidos
 * **Alucinação:** Respostas geradas por IA que parecem perfeitamente corretas e coerentes, mas que são factualmente falsas.
 * **Fine-Tuning (Ajuste Fino):** Processo de treinar adicionalmente um modelo de IA já existente em um conjunto de dados específico para adaptá-lo a uma tarefa ou estilo muito específico.
+* **A Conexão entre RAG e Engenharia de Prompt:** Enquanto o RAG recupera os documentos certos e confiáveis do banco de dados, a Engenharia de Prompt entra em ação para organizar esse contexto recuperado de forma estratégica dentro do comando enviado ao LLM. É a engenharia de prompt que dita as regras de como a IA deve usar os dados do RAG (ex: "responda apenas com base no texto", "formate como tabela"), unindo a busca factual à geração de texto precisa.
 * **Grounding (Ancoragem):** Técnica de vincular as respostas da IA a fontes de dados do mundo real para garantir a veracidade das informações.
 * **Embeddings:** Representações numéricas de palavras ou frases que permitem que os computadores entendam o significado e o contexto semântico dos textos.
 * **Banco de Vetores:** Um banco de dados vetorial (ou Vector Store) é um sistema de armazenamento especializado para guardar e gerenciar esses embeddings.
+
+### 🤖 Prompts Reutilizáveis para Revisão
+Copie e cole estes prompts no seu NotebookLM para revisar o conteúdo futuramente:
+
+1. **Simulador de Entrevista Técnica:**
+"Atue como um Engenheiro de IA Sênior realizando uma entrevista técnica de Ciência de Dados. Com base exclusivamente nas fontes fornecidas, me faça uma pergunta complexa sobre a diferença prática entre RAG e Fine-Tuning. Aguarde a minha resposta antes de fazer a próxima ou de me avaliar."
+
+2. **Gerador de Flashcards de Fixação:**
+"Extraia das fontes os 5 conceitos mais cruciais sobre Engenharia de Prompt e crie uma estrutura de Flashcards, apresentando o 'Conceito' na frente e a 'Definição Prática/Exemplo' no verso, ideal para memorização ativa."
+
+3. **Análise de Casos de Uso:**
+"Atue como um Arquiteto de Soluções de IA. Vou te dar um cenário de negócio hipotético e você deve utilizar os guias da AWS e IBM anexados para me recomendar se devo usar Engenharia de Prompt, RAG ou Fine-Tuning, justificando com base nos critérios de custo e dados."
