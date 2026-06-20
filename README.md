@@ -68,7 +68,7 @@ Para extrair o conhecimento factual das fontes sem dar margem a alucinações, f
 * **Banco de Vetores:** Um banco de dados vetorial (ou Vector Store) é um sistema de armazenamento especializado para guardar e gerenciar esses embeddings.
 
 ### 🤖 Prompts Reutilizáveis para Revisão
-Copie e cole estes prompts no seu NotebookLM para revisar o conteúdo futuramente:
+Prompts para futuras revisões:
 
 1. **Simulador de Entrevista Técnica:**
 "Atue como um Engenheiro de IA Sênior realizando uma entrevista técnica de Ciência de Dados. Com base exclusivamente nas fontes fornecidas, me faça uma pergunta complexa sobre a diferença prática entre RAG e Fine-Tuning. Aguarde a minha resposta antes de fazer a próxima ou de me avaliar."
